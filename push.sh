@@ -1,3 +1,4 @@
+git pull
 git add .
 git commit -m 'msg'
 git branch -m master
